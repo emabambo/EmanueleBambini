@@ -1,0 +1,8 @@
+﻿@page "/"
+
+<h1 style="font-style:@_headingFontStyle">@_headingText</h1>
+<@using HeadingComponent />
+@code{
+    private string _headingFontStyle = "Underlined;";
+    private string _headingText = "Put on your new Blazor!";
+}

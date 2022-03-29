@@ -1,0 +1,19 @@
+﻿@page "/"
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+<Counter IncrementAmount="10" />
+
+<h1 STYLE="font-style:@_headingFontStyle">@_headingText</h1>
+
+
+<HeadingComponent />
+
+@code{
+    private string _headingFontStyle = "italic";
+    private string _headingText = "Put on your new Blazor!";
+}
+
+@*@(await Html.RenderComponentAsync<MyComponent>(RenderMode.ServerPrerendered))*@
