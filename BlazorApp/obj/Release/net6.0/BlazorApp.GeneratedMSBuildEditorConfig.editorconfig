@@ -31,6 +31,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/emanu/source/Repos/EmanueleBambini/BlazorApp/Pages/PizzaBrowser.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGl6emFCcm93c2VyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/emanu/source/Repos/EmanueleBambini/BlazorApp/Pages/Todo.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9kby5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

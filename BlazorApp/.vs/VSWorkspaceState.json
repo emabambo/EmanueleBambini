@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Pages"
+    "\\Pages",
+    "\\Shared"
   ],
-  "SelectedNode": "\\Pages\\Error.cshtml.cs",
+  "SelectedNode": "\\Pages\\Index.razor",
   "PreviewInSolutionExplorer": false
 }
