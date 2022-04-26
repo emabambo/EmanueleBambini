@@ -1,2 +1,1 @@
-# EmanueleBambini
-Work files repository
+EmanueleBambini

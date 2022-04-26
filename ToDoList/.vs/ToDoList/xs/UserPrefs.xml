@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{B60D061E-79CA-412E-A18A-84705A8D3C67}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Pages/Error.razor" Line="1" Column="1" IsPinned="True" />
+      <File FileName="Pages/FetchData.razor" />
+      <File FileName="Pages/Todo.razor" Line="3" Column="16" />
+      <File FileName="Shared/NavMenu.razor" />
+      <File FileName="Startup.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="9" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ToDoList" expanded="True">
+            <Node name="ToDoList" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Pages" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Shared" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="ToDoList" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ToDoList PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
