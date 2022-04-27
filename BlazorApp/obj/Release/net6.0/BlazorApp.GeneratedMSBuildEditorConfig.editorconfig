@@ -8,61 +8,61 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazorApp
 build_property.RootNamespace = BlazorApp
-build_property.ProjectDir = C:\Users\emanu\source\Repos\EmanueleBambini\BlazorApp\
+build_property.ProjectDir = C:\Users\emanu\Source\Repos\emabambo\EmanueleBambini\BlazorApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\emanu\source\Repos\EmanueleBambini\BlazorApp
+build_property.MSBuildProjectDirectory = C:\Users\emanu\Source\Repos\emabambo\EmanueleBambini\BlazorApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/emanu/source/Repos/EmanueleBambini/BlazorApp/App.razor]
+[C:/Users/emanu/Source/Repos/emabambo/EmanueleBambini/BlazorApp/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emanu/source/Repos/EmanueleBambini/BlazorApp/Pages/Counter.razor]
+[C:/Users/emanu/Source/Repos/emabambo/EmanueleBambini/BlazorApp/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emanu/source/Repos/EmanueleBambini/BlazorApp/Pages/FetchData.razor]
+[C:/Users/emanu/Source/Repos/emabambo/EmanueleBambini/BlazorApp/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emanu/source/Repos/EmanueleBambini/BlazorApp/Pages/Index.razor]
+[C:/Users/emanu/Source/Repos/emabambo/EmanueleBambini/BlazorApp/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emanu/source/Repos/EmanueleBambini/BlazorApp/Pages/PizzaBrowser.razor]
+[C:/Users/emanu/Source/Repos/emabambo/EmanueleBambini/BlazorApp/Pages/PizzaBrowser.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGl6emFCcm93c2VyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emanu/source/Repos/EmanueleBambini/BlazorApp/Pages/Todo.razor]
+[C:/Users/emanu/Source/Repos/emabambo/EmanueleBambini/BlazorApp/Pages/Todo.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9kby5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emanu/source/Repos/EmanueleBambini/BlazorApp/Shared/SurveyPrompt.razor]
+[C:/Users/emanu/Source/Repos/emabambo/EmanueleBambini/BlazorApp/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emanu/source/Repos/EmanueleBambini/BlazorApp/_Imports.razor]
+[C:/Users/emanu/Source/Repos/emabambo/EmanueleBambini/BlazorApp/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emanu/source/Repos/EmanueleBambini/BlazorApp/Shared/MainLayout.razor]
+[C:/Users/emanu/Source/Repos/emabambo/EmanueleBambini/BlazorApp/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-3dsd3z3yec
 
-[C:/Users/emanu/source/Repos/EmanueleBambini/BlazorApp/Shared/NavMenu.razor]
+[C:/Users/emanu/Source/Repos/emabambo/EmanueleBambini/BlazorApp/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-7cxxmz0cwl
 
-[C:/Users/emanu/source/Repos/EmanueleBambini/BlazorApp/Pages/Error.cshtml]
+[C:/Users/emanu/Source/Repos/emabambo/EmanueleBambini/BlazorApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emanu/source/Repos/EmanueleBambini/BlazorApp/Pages/_Host.cshtml]
+[C:/Users/emanu/Source/Repos/emabambo/EmanueleBambini/BlazorApp/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emanu/source/Repos/EmanueleBambini/BlazorApp/Pages/_Layout.cshtml]
+[C:/Users/emanu/Source/Repos/emabambo/EmanueleBambini/BlazorApp/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
