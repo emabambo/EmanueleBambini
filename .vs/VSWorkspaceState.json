@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BlazingPizzaSite",
+    "\\BlazingPizzaSite\\Pages"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\BlazingPizzaSite\\Pages\\Index.razor",
   "PreviewInSolutionExplorer": false
 }
